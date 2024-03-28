@@ -35,7 +35,7 @@ const SignUp = () => {
     navigate("/login")
   } else {
     // Unsuccessful response
-    alert("Enter valid credentials");
+    alert("User already exists");
   }
 };
   const onChange = (e) => {

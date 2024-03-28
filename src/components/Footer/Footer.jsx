@@ -9,7 +9,7 @@ function Footer() {
         © 2024 Copyright:
         <div 
           className="text-neutral-800 dark:text-neutral-400 inline-flex m-2"
-        >Divyansh Sharma</div>
+        >FoodFly</div>
       </div>
     </footer>
     </>
