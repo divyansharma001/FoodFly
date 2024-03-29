@@ -33,12 +33,6 @@
 ![image](https://github.com/divyansharma001/FoodFly/assets/140371139/98a63d47-3569-4a65-a985-80566076d5c7)
 ![image](https://github.com/divyansharma001/FoodFly/assets/140371139/419bd8da-e050-4019-a7f9-7c8bd8926bb5)
 ![image](https://github.com/divyansharma001/FoodFly/assets/140371139/da542ca3-fe36-42c9-8b30-077ee9da3cc4)
-![image](https://github.com/divyansharma001/FoodFly/assets/140371139/1243f3a2-a43b-4d20-a5d8-310a0794afe4)
-
-
-
-
-
 
 
 **Craving Convenience? Order Food Seamlessly with FoodFly!**
