@@ -33,7 +33,7 @@
 ![image](https://github.com/divyansharma001/FoodFly/assets/140371139/98a63d47-3569-4a65-a985-80566076d5c7)
 ![image](https://github.com/divyansharma001/FoodFly/assets/140371139/419bd8da-e050-4019-a7f9-7c8bd8926bb5)
 ![image](https://github.com/divyansharma001/FoodFly/assets/140371139/da542ca3-fe36-42c9-8b30-077ee9da3cc4)
-FoodFly App Demo([link-to-your-video](https://vimeo.com/928677315?share=copy))
+FoodFly App Demo([Video link](https://vimeo.com/928677315?share=copy))
 
 
 **Craving Convenience? Order Food Seamlessly with FoodFly!**
